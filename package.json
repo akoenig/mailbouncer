@@ -25,6 +25,8 @@
     "should": "^4.0.4"
   },
   "dependencies": {
+    "imap": "^0.8.14",
+    "mailparser": "^0.4.6",
     "mandatory": "^1.0.0",
     "verror": "^1.4.0"
   }
