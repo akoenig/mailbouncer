@@ -25,6 +25,7 @@
     "should": "^4.0.4"
   },
   "dependencies": {
+    "emailjs": "^0.3.12",
     "imap": "^0.8.14",
     "mailparser": "^0.4.6",
     "mandatory": "^1.0.0",
