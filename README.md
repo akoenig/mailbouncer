@@ -2,7 +2,7 @@
 
 An easy-to-configurable mail bouncer.
 
-## Usage example
+## Example
 
 ```javascript
 var MailBouncer = require('mailbouncer');
