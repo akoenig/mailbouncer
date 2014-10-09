@@ -7,18 +7,7 @@ An easy-to-configurable mail forwarder.
 ```javascript
 var MailBouncer = require('mailbouncer');
 
-var config = {
-    imap: {
-        host: 'posteo.de',
-        user: 'andre.koenig@posteo.de',
-        password: ''
-    },
-    smtp: {
-        host: 'posteo.de',
-        user: '',
-        password: ''
-    }
-};
+var config = {...};
 
 MailBouncer(config)
     .on('mail', function (mail, bounce) {
