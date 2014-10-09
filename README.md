@@ -16,7 +16,7 @@ MailBouncer(config)
         }
     })
     .on('error', function (err) {
-        console.error('Atusch! An error occurred: %s', err.message);
+        console.error('Autsch! An error occurred: %s', err.message);
     });
 ```
 
