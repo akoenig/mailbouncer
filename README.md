@@ -81,6 +81,14 @@ Will be emitted when a `mail` has been bounced successfully. Note: The bounced `
 
 Will be emitted when an error occurred.
 
+## Tests
+
+```sh
+gulp test
+```
+
+The specs are very rudimental at the moment. Did not find a IMAP mock solution for note. [Contact](http://andrekoenig.info) me if you know one :)
+
 ## License
 
 The MIT License (MIT)
