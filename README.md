@@ -1,4 +1,4 @@
-# MailBouncer
+# MailBouncer [![Build Status](https://travis-ci.org/akoenig/mailbouncer.svg?branch=master)](https://travis-ci.org/akoenig/mailbouncer)
 
 An easy-to-configurable mail bouncer.
 
