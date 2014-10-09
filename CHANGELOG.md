@@ -1,4 +1,4 @@
-# UNRELEASED
+# 1.0.1 (2014-10-09)
 
   * Updated documentation.
 
