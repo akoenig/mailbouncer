@@ -21,7 +21,9 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.8.8",
-    "gulp-mocha": "^1.1.0",
+    "gulp-jshint": "^1.8.5",
+    "gulp-mocha": "^1.1.1",
+    "run-sequence": "^1.0.1",
     "should": "^4.0.4"
   },
   "dependencies": {
