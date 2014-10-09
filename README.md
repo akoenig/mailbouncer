@@ -5,11 +5,11 @@ An easy-to-configurable mail bouncer.
 ## Example
 
 ```javascript
-var MailBouncer = require('mailbouncer');
+var mailbouncer = require('mailbouncer');
 
 var config = {...};
 
-MailBouncer(config)
+mailbouncer(config)
     .on('mail', function (mail, bounce) {
         if ('logfile' === mail.subject) {
             bounce(['andre.koenig@posteo.de', 'akoenig@posteo.de']);
