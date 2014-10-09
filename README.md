@@ -1,6 +1,6 @@
 # MailBouncer
 
-An easy-to-configurable mail forwarder.
+An easy-to-configurable mail bouncer.
 
 ## Usage example
 
