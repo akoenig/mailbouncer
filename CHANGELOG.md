@@ -1,4 +1,4 @@
-# UNRELEASED
+# 1.0.2 (2014-10-09)
 
   * Modified example in README.
 
