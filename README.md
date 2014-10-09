@@ -87,7 +87,7 @@ Will be emitted when an error occurred.
 gulp test
 ```
 
-The specs are very rudimental at the moment. Did not find a IMAP mock solution for note. [Contact](http://andrekoenig.info) me if you know one :)
+The specs are very rudimental at the moment. Did not find an IMAP mock solution for node. [Contact](http://andrekoenig.info) me if you know one :)
 
 ## License
 
